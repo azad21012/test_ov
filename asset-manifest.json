@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kurento/static/css/main.5abfa4cd.chunk.css",
-    "main.js": "/kurento/static/js/main.6c846d3d.chunk.js",
-    "main.js.map": "/kurento/static/js/main.6c846d3d.chunk.js.map",
-    "runtime-main.js": "/kurento/static/js/runtime-main.7e5e075c.js",
-    "runtime-main.js.map": "/kurento/static/js/runtime-main.7e5e075c.js.map",
-    "static/js/2.4fed143c.chunk.js": "/kurento/static/js/2.4fed143c.chunk.js",
-    "static/js/2.4fed143c.chunk.js.map": "/kurento/static/js/2.4fed143c.chunk.js.map",
-    "index.html": "/kurento/index.html",
-    "precache-manifest.ab9363478e637345475bdeb400f6d360.js": "/kurento/precache-manifest.ab9363478e637345475bdeb400f6d360.js",
-    "service-worker.js": "/kurento/service-worker.js",
-    "static/css/main.5abfa4cd.chunk.css.map": "/kurento/static/css/main.5abfa4cd.chunk.css.map",
-    "static/js/2.4fed143c.chunk.js.LICENSE.txt": "/kurento/static/js/2.4fed143c.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.5abfa4cd.chunk.css",
+    "main.js": "/static/js/main.bee18f05.chunk.js",
+    "main.js.map": "/static/js/main.bee18f05.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b8b8440.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b8b8440.js.map",
+    "static/js/2.4fed143c.chunk.js": "/static/js/2.4fed143c.chunk.js",
+    "static/js/2.4fed143c.chunk.js.map": "/static/js/2.4fed143c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9425b369343844ea9395adf06b953ad2.js": "/precache-manifest.9425b369343844ea9395adf06b953ad2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5abfa4cd.chunk.css.map": "/static/css/main.5abfa4cd.chunk.css.map",
+    "static/js/2.4fed143c.chunk.js.LICENSE.txt": "/static/js/2.4fed143c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e5e075c.js",
+    "static/js/runtime-main.8b8b8440.js",
     "static/js/2.4fed143c.chunk.js",
     "static/css/main.5abfa4cd.chunk.css",
-    "static/js/main.6c846d3d.chunk.js"
+    "static/js/main.bee18f05.chunk.js"
   ]
 }
