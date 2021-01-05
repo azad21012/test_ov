@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kurento/precache-manifest.2305858960c951230b43a991f538f031.js"
+  "/kurento/precache-manifest.ab9363478e637345475bdeb400f6d360.js"
 );
 
 self.addEventListener('message', (event) => {

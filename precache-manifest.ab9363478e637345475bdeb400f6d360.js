@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff7ced111d11c9bff5fe105be1cd5f6c",
+    "revision": "c4ecbe5047e6574acb670c3464339fce",
     "url": "/kurento/index.html"
   },
   {
